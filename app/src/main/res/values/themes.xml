@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DeviceDefault.NoTitleBar is always present on all Android versions -->
+    <style name="Theme.JarvisAI" parent="android:Theme.DeviceDefault.NoTitleBar">
+        <item name="android:windowBackground">#FF050D1A</item>
+        <item name="android:statusBarColor">#FF050D1A</item>
+        <item name="android:navigationBarColor">#FF0A1628</item>
+    </style>
+</resources>

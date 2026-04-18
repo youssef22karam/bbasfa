@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JARVIS AI</string>
+    <string name="accessibility_service_label">JARVIS Phone Control</string>
+    <string name="accessibility_service_description">Allows JARVIS to control your phone, tap buttons, type text, and read screen content for AI assistance.</string>
+</resources>
